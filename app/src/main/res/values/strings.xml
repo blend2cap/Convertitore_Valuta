@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Convertitore Valuta</string>
+    <string name="usd_textView">USD</string>
+    <string name="eur_textView">EUR</string>
+    <string name="cny_textView">CNY</string>
+</resources>
